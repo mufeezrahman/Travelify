@@ -5,6 +5,7 @@ Welcome to **Travelify**, a full-stack travel booking website. This project allo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,7 +22,25 @@ Welcome to **Travelify**, a full-stack travel booking website. This project allo
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 - **API:** RESTful API for communication between frontend and backend
+  
 ![image](https://github.com/user-attachments/assets/2a60df51-6939-43ce-892c-1217b28ebb2b)
+
+![image](https://github.com/user-attachments/assets/445ac866-6014-4f17-87ee-ac5d3c7604a2)
+
+![image](https://github.com/user-attachments/assets/956d07a4-3f93-4bc1-a321-e04671870b8e)
+
+![image](https://github.com/user-attachments/assets/8ac39f56-48b7-4eeb-8510-327563e9f3c2)
+
+![image](https://github.com/user-attachments/assets/8243e47f-e90e-40fb-8eda-438bf8f75e85)
+
+![image](https://github.com/user-attachments/assets/cb23af1a-f9bf-44ea-b9a0-74594a7c4776)
+
+![image](https://github.com/user-attachments/assets/998f3bfe-4000-4328-870c-b9ca81e29586)
+
+![image](https://github.com/user-attachments/assets/87d90316-4bca-46f5-9f64-3943262c9a3e)
+
+![image](https://github.com/user-attachments/assets/6cdd6886-9819-47f1-b7fb-e4e0475a8206)
+
 
 ## Project Structure
 The project is organized as follows:
