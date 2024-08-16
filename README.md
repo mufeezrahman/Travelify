@@ -21,6 +21,7 @@ Welcome to **Travelify**, a full-stack travel booking website. This project allo
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 - **API:** RESTful API for communication between frontend and backend
+![image](https://github.com/user-attachments/assets/2a60df51-6939-43ce-892c-1217b28ebb2b)
 
 ## Project Structure
 The project is organized as follows:
