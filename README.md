@@ -10,8 +10,6 @@ Welcome to **Travelify**, a full-stack travel booking website. This project allo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 **Travelify** is a comprehensive web application designed to simplify the travel booking process. Users can search for tours, view detailed information, and make reservations directly through the platform.
