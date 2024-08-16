@@ -51,7 +51,7 @@ Welcome to **Travelify**, a full-stack travel booking website. This project allo
 
   ![image](https://github.com/user-attachments/assets/bdc303ea-9483-4a44-9087-b98da808dc6f)
 
-    **Registration page:**
+  **Registration page:**
 
   ![image](https://github.com/user-attachments/assets/4267d048-dde4-42bb-be80-d62031b38191)
 
