@@ -23,24 +23,37 @@ Welcome to **Travelify**, a full-stack travel booking website. This project allo
 - **Authentication:** JWT (JSON Web Token)
 - **API:** RESTful API for communication between frontend and backend
   
-![image](https://github.com/user-attachments/assets/2a60df51-6939-43ce-892c-1217b28ebb2b)
+## Output
 
-![image](https://github.com/user-attachments/assets/445ac866-6014-4f17-87ee-ac5d3c7604a2)
+  **Home Page:**
+  ![image](https://github.com/user-attachments/assets/65fc9a42-8ce0-4cc6-9ed7-0ffd843a436a)
 
-![image](https://github.com/user-attachments/assets/956d07a4-3f93-4bc1-a321-e04671870b8e)
+  Featured Tours:
+  ![image](https://github.com/user-attachments/assets/02393a3d-054c-4ab9-b083-b6d2def3cfac)
 
-![image](https://github.com/user-attachments/assets/8ac39f56-48b7-4eeb-8510-327563e9f3c2)
+  Experience:
+  ![image](https://github.com/user-attachments/assets/be7c4086-ccba-43aa-b15c-bfe96b0454e0)
 
-![image](https://github.com/user-attachments/assets/8243e47f-e90e-40fb-8eda-438bf8f75e85)
+  Gallery:
+  ![image](https://github.com/user-attachments/assets/d9d78cb7-c681-404b-be2a-270389fce34b)
 
-![image](https://github.com/user-attachments/assets/cb23af1a-f9bf-44ea-b9a0-74594a7c4776)
+  User Experience with Travelify:
+  ![image](https://github.com/user-attachments/assets/c9b39d31-2fee-4b6a-aa41-1f08473168c2)
 
-![image](https://github.com/user-attachments/assets/998f3bfe-4000-4328-870c-b9ca81e29586)
+  NewsLetter:
+  ![image](https://github.com/user-attachments/assets/ad4b40c8-c3b0-45de-9ef6-7afb35ed3b49)
 
-![image](https://github.com/user-attachments/assets/87d90316-4bca-46f5-9f64-3943262c9a3e)
+  **Tours Page:**
 
-![image](https://github.com/user-attachments/assets/6cdd6886-9819-47f1-b7fb-e4e0475a8206)
+  ![image](https://github.com/user-attachments/assets/f1063c0e-af0a-49d1-89d4-ede86bf3a7d9)
 
+  **Login Page:**
+
+  ![image](https://github.com/user-attachments/assets/bdc303ea-9483-4a44-9087-b98da808dc6f)
+
+    **Registration page:**
+
+  ![image](https://github.com/user-attachments/assets/4267d048-dde4-42bb-be80-d62031b38191)
 
 ## Project Structure
 The project is organized as follows:
