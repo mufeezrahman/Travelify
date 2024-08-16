@@ -44,3 +44,84 @@ Travelify/
 │   ├── package-lock.json  # Frontend dependency tree
 │   └── .gitignore         # Ignored files
 └── .gitignore             # Ignored files
+
+
+## Installation
+
+To get started with **Travelify**, follow these steps:
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- MongoDB (ensure it's running on your local machine or you have access to a MongoDB Atlas cluster)
+
+### Backend Setup
+
+1. Navigate to the `backend` directory:
+
+    ```bash
+    cd backend
+    ```
+
+2. Install the backend dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Create a `.env` file in the `backend` directory and add the following environment variables:
+
+    ```env
+    MONGODB_URI=<your_mongodb_uri>
+    JWT_SECRET=<your_jwt_secret_key>
+    ```
+
+4. Start the backend server:
+
+    ```bash
+    npm start
+    ```
+
+### Frontend Setup
+
+1. Navigate to the `frontend` directory:
+
+    ```bash
+    cd frontend
+    ```
+
+2. Install the frontend dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the frontend development server:
+
+    ```bash
+    npm start
+    ```
+
+The frontend application will be available at `http://localhost:3000` and the backend server will run on `http://localhost:5000` by default.
+
+## Usage
+
+Once both the frontend and backend servers are running, you can use the **Travelify** platform to:
+
+- **Explore Tours:** Browse available travel tours and view detailed information.
+- **Book Tours:** Select and book tours by providing necessary details.
+- **Manage Reservations:** Access and manage your bookings from your user profile.
+- **Search:** Use search functionality to find specific tours or destinations.
+
+To test the API endpoints or interact with the backend, you can use tools like Postman or cURL. The API documentation is available at `http://localhost:5000/api-docs` if you have set up Swagger or a similar tool for documentation.
+
+## Features
+
+- **User Authentication:** Secure login and registration using JWT.
+- **Tour Search and Filtering:** Advanced search and filtering options to find the best tours.
+- **Booking System:** Seamless booking process with real-time availability updates.
+- **User Profiles:** Manage personal information and view booking history.
+- **Responsive Design:** Mobile-friendly interface ensuring a smooth experience on all devices.
+- **Admin Dashboard:** Manage tours, users, and bookings from an admin panel (if implemented).
+
+
+
