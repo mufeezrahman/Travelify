@@ -132,7 +132,7 @@ To get started with **Travelify**, follow these steps:
     npm start
     ```
 
-The frontend application will be available at `http://localhost:3000` and the backend server will run on `http://localhost:5000` by default.
+The frontend application will be available at `http://localhost:3000` and the backend server will run on `http://localhost8000` by default.
 
 ## Usage
 
